@@ -1,6 +1,6 @@
 # Hi, I'm Ameya 👋
 
-Software Engineer with an MS in Computer Science from Georgia Tech (specialization: AI). I build full-stack applications and apply ML to real problems.
+Software Engineer with an MS in Computer Science from Georgia Tech (specialization: Artificial Intelligence). I build full-stack applications and apply ML to real problems.
 
 Currently open to **full-stack** and **ML-adjacent** roles.
 
